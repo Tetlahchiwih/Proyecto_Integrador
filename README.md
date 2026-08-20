@@ -6,4 +6,4 @@ Bienvenido al repositorio oficial del proyecto. Este espacio sirve como portafol
 
 ### Enlaces de Interés
 
-* 📊 **[Presentación del Proyecto](https://canva.link/o8mhyok1t8mgs3g)** — Consulta las diapositivas y el resumen de nuestro aprendizaje.
+* 📊 **[Presentación del Proyecto]([https://canva.link/o8mhyok1t8mgs3g](https://canva.link/b64xgkdzheu09fd))** — Consulta las diapositivas y el resumen de nuestro aprendizaje.
